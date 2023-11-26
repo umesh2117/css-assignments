@@ -1,0 +1,24 @@
+h1{
+    color:blue;
+    text-align: center;
+    text-decoration: underline;
+    text-transform: capitalize;
+}
+.light{
+    color:chocolate;
+    text-indent: 20px;
+    line-height: 2;
+    text-transform: capitalize;
+}
+.dark{
+    color:blueviolet;
+    text-indent: 20px;
+    line-height: 2;
+    text-transform: capitalize;
+}
+#blue{
+    color:cadetblue;
+    text-indent: 20px;
+    line-height: 2;
+    text-transform: capitalize;
+}

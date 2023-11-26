@@ -1,0 +1,15 @@
+h1{
+    text-align: center;
+    text-decoration:underline;
+    color:brown;
+
+}
+p1{
+    color:blueviolet;
+    text-decoration-line: underline overline;
+}
+p{
+    color:blue;
+    text-align: center;
+    word-spacing: 2px;
+}
