@@ -1,0 +1,12 @@
+h1{
+    color: blueviolet;
+    text-align: center;
+   text-decoration-line: underline;
+   text-decoration-color: brown;
+}
+dt{
+    color: chocolate;
+}
+body{
+    background-color: rgba(160, 95, 95, 0.5);
+}
