@@ -1,0 +1,52 @@
+b{
+    color: brown;
+    border-style: solid;
+    background-color: blue;
+    padding:2px 2px 2px 2px;
+    text-align: justify;
+}
+p{
+    color: red;
+    text-transform: uppercase;
+    
+}
+body{
+    background-image: url(https://wallpaperset.com/w/full/0/f/a/248923.jpg);
+    background-repeat: no-repeat;
+    background-position: initial;
+    background-size: 100%;
+    backdrop-filter: blur(10px);
+    background-color: blueviolet;
+}
+p{ 
+font-family: 'Courier New', Courier, monospace;
+}
+center{
+    vertical-align: bottom;
+}
+p1{
+    position: relative;
+    top: 100px;
+    left: 100px;
+}
+span{
+    position: relative;
+    top: 200px;
+    right: 500px;
+    bottom: 20px;
+}
+p{
+    position: relative;
+    top: 150px;
+    left: 100px;
+}
+b{
+    position: relative;
+    top: 150px;
+    left: 100px;
+}
+div{
+    position: relative;
+    left: 1200px;
+    top: 50px;
+}
