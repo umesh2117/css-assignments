@@ -1,0 +1,51 @@
+nav{
+    background-color: gray;
+    padding: 20px 40px;
+    font-size: 20px;
+}
+a{
+    text-decoration: none;
+    text-align: center;
+    color: snow;
+}
+body{
+    margin: 0;
+    font-family: 'Courier New', Courier, monospace;
+    background-color: lightcyan;
+}
+img{
+    display: block;
+}
+span{
+    position: relative;
+    bottom: 150px;
+}
+div p1,p2{
+    background-color: snow;
+    padding: 5px 10px;
+    position: relative;
+    left: 865px;
+    bottom: 260px;
+    border: solid red;
+    color: brown;
+}
+h6 p{
+    border: solid orange;
+    display: inline;
+    padding: 5px 10px;
+    color: chocolate;
+    position: relative;
+    bottom: 255px;
+    left: 745px;
+    background-color: snow;
+}
+video{
+    height: 200px;
+    width: 300px;
+    position: relative;
+    left: 400px;
+    border: solid;
+    border-color: blue;
+    bottom: 300px;
+    
+}
