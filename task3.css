@@ -1,0 +1,30 @@
+div{
+    border: solid;
+    width: 50px;
+    height: 50px;
+} 
+#container{
+    display: grid;
+    grid-template-columns: auto auto;
+    grid-template-rows: auto auto;
+    column-gap: 10px;
+    row-gap: 10px;
+    position: relative;
+    top: 300px;
+    left: 700px;
+}
+#red{
+    background-color: red;
+}
+#green{
+    background-color: green;
+}
+#blue{
+    background-color: blue;
+}
+#orange{
+    background-color: orange;
+}
+body{
+    background-color: lightblue;
+}
