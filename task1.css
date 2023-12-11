@@ -1,0 +1,29 @@
+legend::first-letter{
+font-weight: bolder;
+font-size: x-large;
+color: blue;
+}
+form fieldset label::selection{
+background-color: firebrick;
+}
+
+label:hover{
+    color: red;
+}
+form fieldset label::before{
+    content: "*";
+    color: red;
+}
+form fieldset label::after{
+    content: "*";
+    color: red;
+}
+button:hover{
+    color: red;
+}
+button::first-line{
+    color: goldenrod;
+}
+body{
+    background-color: grey;
+}
