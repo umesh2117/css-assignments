@@ -1,0 +1,12 @@
+label:hover{
+    color: rgb(220, 226, 43);
+}
+button:hover{
+    color: red;
+}
+legend:hover{
+    color: chartreuse;
+}
+body{
+    background-color: grey;
+}
