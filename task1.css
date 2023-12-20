@@ -1,0 +1,37 @@
+body{
+    margin: o;
+    background-color: lightgrey;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: larger;
+    font-weight: bolder;
+    text-transform: capitalize;
+}
+
+a{
+    text-decoration: none;
+    color: orangered;
+    position: relative;
+    left: 1200px;
+    padding: auto;
+}
+img{
+    border: solid 2px;
+    border-radius: 50%;
+    position: relative;
+    top: 200px;
+    left: 200px;
+}
+pre{
+  position: relative;  
+  left: 350px;
+  color: gray;
+  font-size: xx-large;
+}
+p{
+    position: relative;
+    left: 250px;
+}
+div1{
+    position: relative;
+    bottom: 200px;
+}
